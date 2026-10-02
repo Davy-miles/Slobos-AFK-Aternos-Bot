@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "fsanity.aternos.me",
+    "port": 49109,
     "version": "",
     "try-creative": false
   },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "Tropa da f sanidade",
     "events": {
       "connect": true,
       "disconnect": true,
